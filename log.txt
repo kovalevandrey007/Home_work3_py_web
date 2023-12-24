@@ -1,0 +1,15 @@
+2023-12-26 01:45:07 INFO ====== WebDriver manager ======
+2023-12-26 01:45:07 INFO Get LATEST chromedriver version for google-chrome
+2023-12-26 01:45:07 INFO Get LATEST chromedriver version for google-chrome
+2023-12-26 01:45:08 INFO Driver [/home/andy/.wdm/drivers/chromedriver/linux64/120.0.6099.109/chromedriver-linux64/chromedriver] found in cache
+2023-12-26 01:45:10 INFO Test3 starting
+2023-12-26 01:45:13 INFO Senf andy08 of element //*[@id="login"]/div[1]/label/input
+2023-12-26 01:45:13 INFO Senf 9f65c0c3f3 of element //*[@id="login"]/div[2]/label/input
+2023-12-26 01:45:14 INFO Click login button
+2023-12-26 01:45:14 INFO Click Contact tab
+2023-12-26 01:45:15 INFO Send qwerty2332 of element //*[@id="contact"]/div[1]/label/input
+2023-12-26 01:45:16 INFO Send as@as.ru of element //*[@id="contact"]/div[2]/label/input
+2023-12-26 01:45:16 INFO Send 12garden of element //*[@id="contact"]/div[3]/label/span/textarea
+2023-12-26 01:45:16 INFO Click button Contact Us
+2023-12-26 01:45:16 INFO Loading alert
+2023-12-26 01:45:20 INFO Send of true text by test "Form successfully submitted"
